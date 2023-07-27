@@ -71,7 +71,7 @@ const options = {
 };
 
 
-//Changes
+//ChangesUpdates
     const buildChartData = (data, casesType) => {
 
         let chartData = [];
